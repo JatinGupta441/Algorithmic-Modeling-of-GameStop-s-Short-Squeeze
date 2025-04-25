@@ -6,7 +6,7 @@ The GameStop (GME) short squeeze in January 2021, driven by Reddit's r/wallstree
 ## Repository Structure
 This repository contains the following files and directories:
 
-- `Stock_Price_Prediction_Notebook_KS.ipynb`: Jupyter notebook containing the Python code for model building, including data acquisition, preprocessing, model training, and evaluation.
+- `Social_Media_vs_Stock_Price_Predictions.ipynb`: Jupyter notebook containing the Python code for model building, including data acquisition, preprocessing, model training, and evaluation.
 
 ## References
 - GameStop: What is it and why is it trending? https://www.bbc.com/news/newsbeat-55841719
